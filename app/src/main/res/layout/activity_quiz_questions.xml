@@ -61,7 +61,7 @@
                 android:layout_weight="1"
                 android:gravity="center"
                 android:padding="15dp"
-                android:text="0/10"
+                android:text="0/30"
                 android:textColor="#363A43"
                 android:textColorHint="#7A8089"
                 android:textSize="15sp"
